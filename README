@@ -1,0 +1,3 @@
+A python 3.3 script that tells you what the weather is.
+The script searches a list of NOAA weather stations and asks which station to list the current weather for.
+The script then gets the weather data from the NOAA website, parses it, and prints it.
